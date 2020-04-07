@@ -1,1 +1,0 @@
-# todoist-react-native-firebase
