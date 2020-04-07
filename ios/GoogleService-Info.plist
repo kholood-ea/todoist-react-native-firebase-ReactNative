@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>696475397060-n412c5osub28tubt75qd2t0a11lhm09j.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.696475397060-n412c5osub28tubt75qd2t0a11lhm09j</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBDzssP1390sSG06YgDSjpp7DsZhd6jPQo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>696475397060</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>todoist-reactNative</string>
+	<key>PROJECT_ID</key>
+	<string>todoist-6798c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>todoist-6798c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:696475397060:ios:7cba3b54a36441652dd291</string>
+	<key>DATABASE_URL</key>
+	<string>https://todoist-6798c.firebaseio.com</string>
+</dict>
+</plist>
