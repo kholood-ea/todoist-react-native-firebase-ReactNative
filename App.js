@@ -21,8 +21,8 @@ export default function App() {
     if(mounted){
       setTodos(newtodos)
     }  
-    newtodos.map(todo=>console.log(todo))
-    console.log(newtodos)
+    // newtodos.map(todo=>console.log(todo))
+    // console.log(newtodos)
     })
     return ()=>mounted=false;
   },[])
@@ -58,7 +58,7 @@ export default function App() {
     }
   }
   
- console.log(todos)
+//  console.log(todos)
 
   return(
     <TouchableWithoutFeedback onPress={()=>Keyboard.dismiss()}>
